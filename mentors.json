@@ -1,1 +1,76 @@
-{ "_id": "60b08e727ea8d01adf162436", "available": true, "spokenLanguages": ["en"], "tags": ["business-growth", "start-up"], "name": "David L", "avatar": "/avatars/b91721b80664da45d9609974cc868a4d", "title": "Senior business owners run business for many years", "description": "Owner & CEO with 26 years experience building businesses, including growth hacking, product development, marketing strategy, team building and management, corporate partnerships and competitive analysis, building corporate and personal brands. I can help with: Business growth, operations and processes, validating ideas, marketing strategy, branding strategies.", "country": "AU", "createdAt": "2021-05-28T06:32:18.248Z", "channels": [] }, { "_id": "60b043a97ea8d01adf16240c", "available": true, "spokenLanguages": ["en"], "tags": ["business-growth", "start-up"], "name": "Justin K", "avatar": "/avatars/721257da79437bca278e7fd9540c3d43", "title": "Start-up Founder", "description": "I’m a 5x venture backed startup founder with >$110MM in successful exits. I can give advice on Seed, Angel and Venture Funding, Bootstrapping, Enterprise Sales, Saas, UX, content marketing and SEO. I enjoy giving back and helping new founders because I’ve had my fair share of obstacles and failures along the way and wish I knew back then what I know now.", "country": "US", "createdAt": "2021-05-28T01:13:13.247Z", "channels": [] }, { "_id": "5d5d6372f4fcfc765924b7a8", "available": true, "spokenLanguages": ["en"], "tags": ["career-transition", "workplace-consultation"], "name": "Sarah H", "avatar": "/avatars/c3ae5b59172661a2b40e5d41b4b4dbf6", "title": "Career coach", "description": "I’m a seasoned recruiter with experience in HR and provide expert advice on how to navigate workplace politics, employment laws, and employee relations. If you’ve hit a glass ceiling, are being overlooked, or have experienced workplace bullying, having an independent advisor who actually has your best interests at heart can make a big difference. Can help with difficult situations and career impassees, interview skills, job search results, and personal roadmaps for career advancement.", "country": "AU", "channels": [] }, { "_id": "5d5d6372f4fcfc765924b7ac", "available": true, "spokenLanguages": ["en"], "tags": ["workplace-consultation", "career-transition"], "name": "Oliver G", "avatar": "/avatars/c5fc71ed06c207b871569822eb81a28d", "title": "Employee relation expert", "description": "I’m a seasoned recruiter with experience in HR and provide expert advice on how to navigate workplace politics, employment laws, and employee relations. If you’ve hit a glass ceiling, are being overlooked, or have experienced workplace bullying, having an independent advisor who actually has your best interests at heart can make a big difference. Can help with difficult situations and career impassees, interview skills, job search results, and personal roadmaps for career advancement.", "country": "UK", "channels": [] }, { "_id": "5d5d6372f4fcfc765924b7b9", "available": true, "spokenLanguages": ["en"], "tags": ["machine-learning"], "name": "Victor K", "avatar": "/avatars/c5fc71ed06c207b871569822eb81a28d", "title": "Machine Learning / Data Science / NLP / Engineering", "description": "I’m the Lead Machine Learning Engineer at a fortune 500 company and specialise in robust and scalable production grade systems. I can help your development in NLP, Speech, and Image recognition machine learning, and platform engineering (backend, data-eng, devops). Whether you have several years of experience and want to take your development to the next level or if you’re looking to land your first ML job, I would love to help you get there!", "country": "AU", "channels": [] }, { "_id": "5d5d6372f4fcfc765924b7c0", "available": true, "spokenLanguages": ["en"], "tags": ["digital-marketing"], "name": "Sam D", "avatar": "/avatars/c5fc71ed06c207b871569822eb81a28d", "title": "Marketing / Digital Marketing / SEO / Google Ads ", "description": "I’m a seasoned SEO and digital marketing expert and have experience mentoring both those wanting to improve their marketing skills and career opportunities, and also founders and entrepreneurs learning how to grow their own business faster and more cost effectively. As Head of Marketing at a leading New York agency, I can develop your skillsets to achieve your goals, and give guidance and insights on your projects as needed.", "country": "UK", "channels": [] }
+{
+    {
+      "_id": "60b08e727ea8d01adf162436",
+      "available": true,
+      "spokenLanguages": ["en"],
+      "tags": ["business-growth", "start-up"],
+      "name": "David L",
+      "avatar": "/avatars/b91721b80664da45d9609974cc868a4d",
+      "title": "Senior business owners run business for many years",
+      "description": "Owner & CEO with 26 years experience building businesses, including growth hacking, product development, marketing strategy, team building and management, corporate partnerships and competitive analysis, building corporate and personal brands. I can help with: Business growth,  operations and processes, validating ideas,  marketing strategy,  branding strategies.",
+      "country": "AU",
+      "createdAt": "2021-05-28T06:32:18.248Z",
+      "channels": []
+    },
+    {
+      "_id": "60b043a97ea8d01adf16240c",
+      "available": true,
+      "spokenLanguages": ["en"],
+      "tags": ["business-growth", "start-up"],
+      "name": "Justin K",
+      "avatar": "/avatars/721257da79437bca278e7fd9540c3d43",
+      "title": "Start-up Founder",
+      "description": "I’m a 5x venture backed startup founder with >$110MM in successful exits. I can give advice on  Seed, Angel and Venture Funding, Bootstrapping, Enterprise Sales, Saas, UX, content marketing and SEO.  I enjoy giving back and helping new founders because I’ve had my fair share of obstacles and failures along the way and wish I knew back then what I know now.",
+      "country": "US",
+      "createdAt": "2021-05-28T01:13:13.247Z",
+      "channels": []
+    },
+    {
+      "_id": "5d5d6372f4fcfc765924b7a8",
+      "available": true,
+      "spokenLanguages": ["en"],
+      "tags": ["career-transition", "workplace-consultation"],
+      "name": "Sarah H",
+      "avatar": "/avatars/c3ae5b59172661a2b40e5d41b4b4dbf6",
+      "title": "Career coach",
+      "description": "I’m a seasoned recruiter with experience in HR and provide expert advice on how to navigate workplace politics, employment laws, and employee relations. If you’ve hit a glass ceiling, are being overlooked, or have experienced workplace bullying, having an independent advisor who actually has your best interests at heart can make a big difference. Can help with difficult situations and career impassees, interview skills, job search results, and personal roadmaps for career advancement.",
+      "country": "AU",
+      "channels": []
+    },
+    {
+      "_id": "5d5d6372f4fcfc765924b7ac",
+      "available": true,
+      "spokenLanguages": ["en"],
+      "tags": ["workplace-consultation", "career-transition"],
+      "name": "Oliver G",
+      "avatar": "/avatars/c5fc71ed06c207b871569822eb81a28d",
+      "title": "Employee relation expert",
+      "description": "I’m a seasoned recruiter with experience in HR and provide expert advice on how to navigate workplace politics, employment laws, and employee relations. If you’ve hit a glass ceiling, are being overlooked, or have experienced workplace bullying, having an independent advisor who actually has your best interests at heart can make a big difference. Can help with difficult situations and career impassees, interview skills, job search results, and personal roadmaps for career advancement.",
+      "country": "UK",
+      "channels": []
+    },
+    {
+        "_id": "5d5d6372f4fcfc765924b7b9",
+        "available": true,
+        "spokenLanguages": ["en"],
+        "tags": ["machine-learning"],
+        "name": "Victor K",
+        "avatar": "/avatars/c5fc71ed06c207b871569822eb81a28d",
+        "title": "Machine Learning / Data Science / NLP / Engineering",
+        "description": "I’m the Lead Machine Learning Engineer at a fortune 500 company and specialise in robust and scalable production grade systems. I can help your development in NLP,  Speech, and Image recognition machine learning, and platform engineering (backend, data-eng, devops). Whether you have several years of experience and want to take your development to the next level or if you’re looking to land your first ML job, I would love to help you get there!",
+        "country": "AU",
+        "channels": []
+      },
+      {
+        "_id": "5d5d6372f4fcfc765924b7c0",
+        "available": true,
+        "spokenLanguages": ["en"],
+        "tags": ["digital-marketing"],
+        "name": "Sam D",
+        "avatar": "/avatars/c5fc71ed06c207b871569822eb81a28d",
+        "title": "Marketing / Digital Marketing / SEO / Google Ads ",
+        "description": "I’m a seasoned SEO and digital marketing expert and have experience mentoring both those wanting to improve their marketing skills and career opportunities, and also founders and entrepreneurs learning how to grow their own business faster and more cost effectively. As Head of Marketing at a leading New York agency, I can develop your skillsets to achieve your goals, and give guidance and insights on your projects as needed.",
+        "country": "UK",
+        "channels": []
+      }
+}
