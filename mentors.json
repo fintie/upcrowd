@@ -12,7 +12,7 @@
       { "id": "es", "label": "Chinese" },
       { "id": "he", "label": "Hebrew" }
     ],
-    "categories": [
+    "technologies": [
       "business-growth",
       "start-up",
       "find-a-job",
